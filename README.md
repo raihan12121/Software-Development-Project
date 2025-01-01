@@ -1,4 +1,4 @@
 # Software-Development-Project
-Software Development Project 1 using C++
+Software Development Project 
 <br>
 Author : Muhammad Raihan Molla
